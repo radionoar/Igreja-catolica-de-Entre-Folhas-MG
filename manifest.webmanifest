@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "Igreja Católica — Transmissão Ao Vivo",
+  "short_name": "Igreja Católica",
+  "description": "Instale o aplicativo Igreja Católica e acompanhe a transmissão ao vivo.",
+  "lang": "pt-BR",
+  "start_url": "./?v=ic-1.9.4",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#03191e",
+  "theme_color": "#031b20",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "music",
+    "entertainment"
+  ]
+}
